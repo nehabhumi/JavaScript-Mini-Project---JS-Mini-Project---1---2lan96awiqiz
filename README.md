@@ -12,4 +12,4 @@ CSS:- I have used inset and postion relative for placing each button on specific
 
 JavaScript:- I have used document.querySelectorAll for selecting all 7 buttons by using loop and added document.addEventListener for mouse click and key press the butons and click the drum. I have used audio object and play method to play the sound and for animation used classList.add and remove pressed class.
 
-Hosted Link:- 
+Hosted Link:- https://nehabhumi.github.io/JavaScript-Mini-Project---JS-Mini-Project---1---2lan96awiqiz/
